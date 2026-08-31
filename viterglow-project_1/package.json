@@ -1,0 +1,9 @@
+{
+  "name": "viterglow-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Viterglow storefront + Xendit checkout backend",
+  "engines": {
+    "node": ">=18"
+  }
+}
